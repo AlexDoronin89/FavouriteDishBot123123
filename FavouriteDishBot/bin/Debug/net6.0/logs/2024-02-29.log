@@ -1,0 +1,84 @@
+2024-02-29 22:43:31.3935 INFO Выполнена инициализация Бота с токеном 7110426275:AAH7EEbnhcafTEyqkq18lb3ROQxz03KUY9E
+2024-02-29 23:07:21.9732 INFO Выполнена инициализация Бота с токеном 7110426275:AAH7EEbnhcafTEyqkq18lb3ROQxz03KUY9E
+2024-02-29 23:07:22.3805 INFO Бот запущен
+2024-02-29 23:07:23.3029 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1182424873; messageId = 22; text = /start canRoute = True
+2024-02-29 23:07:23.3029 INFO ROUTER chatId = 1182424873; State = CommandStart
+2024-02-29 23:07:23.4402 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1182424873; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Рекомендации;
+2024-02-29 23:07:31.4735 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 24; text = /reset canRoute = True
+2024-02-29 23:07:31.4735 INFO ROUTER chatId = 1437102827; State = CommandStart
+2024-02-29 23:07:31.5716 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Рекомендации;
+2024-02-29 23:07:46.6570 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 25; text = CreateDishList canRoute = True
+2024-02-29 23:07:46.6570 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:07:52.7214 ERROR ОШИБКА chatId = 1437102827; text = An exception has been raised that is likely due to a transient failure.
+2024-02-29 23:08:00.8227 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 26; text = /reset canRoute = True
+2024-02-29 23:08:00.8227 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:08:00.9099 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Рекомендации;
+2024-02-29 23:08:01.9174 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 27; text = Lists canRoute = True
+2024-02-29 23:08:01.9174 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:08:06.0749 ERROR ОШИБКА chatId = 1437102827; text = An exception has been raised that is likely due to a transient failure.
+2024-02-29 23:10:46.9977 INFO Выполнена инициализация Бота с токеном 7110426275:AAH7EEbnhcafTEyqkq18lb3ROQxz03KUY9E
+2024-02-29 23:10:47.1456 INFO Бот запущен
+2024-02-29 23:10:57.5754 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 28; text = /start canRoute = True
+2024-02-29 23:10:57.5754 INFO ROUTER chatId = 1437102827; State = CommandStart
+2024-02-29 23:10:57.8945 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Получить случайное блюдо;
+2024-02-29 23:11:00.1967 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 29; text = CreateDishList canRoute = True
+2024-02-29 23:11:00.1971 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:11:05.6365 ERROR ОШИБКА chatId = 1437102827; text = An exception has been raised that is likely due to a transient failure.
+2024-02-29 23:11:25.2038 INFO Выполнена инициализация Бота с токеном 7110426275:AAH7EEbnhcafTEyqkq18lb3ROQxz03KUY9E
+2024-02-29 23:11:25.3501 INFO Бот запущен
+2024-02-29 23:11:32.0719 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 30; text = /start canRoute = True
+2024-02-29 23:11:32.0719 INFO ROUTER chatId = 1437102827; State = CommandStart
+2024-02-29 23:11:32.2417 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Получить случайное блюдо;
+2024-02-29 23:11:33.1487 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 31; text = CreateDishList canRoute = True
+2024-02-29 23:11:33.1487 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:11:34.9135 ERROR ОШИБКА chatId = 1437102827; text = Неизвестная ошибка в ProcessClickOnInlineButton
+2024-02-29 23:14:40.0962 INFO Выполнена инициализация Бота с токеном 7110426275:AAH7EEbnhcafTEyqkq18lb3ROQxz03KUY9E
+2024-02-29 23:14:40.2364 INFO Бот запущен
+2024-02-29 23:14:46.0534 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 32; text = /start canRoute = True
+2024-02-29 23:14:46.0534 INFO ROUTER chatId = 1437102827; State = CommandStart
+2024-02-29 23:14:46.2006 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Получить случайное блюдо;
+2024-02-29 23:14:47.1048 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 33; text = CreateDishList canRoute = True
+2024-02-29 23:14:47.1048 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:14:48.6898 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите название списка; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:14:54.7467 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 35; text = бимбам canRoute = True
+2024-02-29 23:14:54.7467 INFO ROUTER chatId = 1437102827; State = InputListName
+2024-02-29 23:14:55.1220 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Получить случайное блюдо;
+2024-02-29 23:14:56.7690 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 36; text = Lists canRoute = True
+2024-02-29 23:14:56.7690 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:14:56.8905 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Ваши списки; Keyboard = бимбам;Назад;
+2024-02-29 23:14:58.2667 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 38; text = бимбам canRoute = True
+2024-02-29 23:14:58.2667 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonUserLists
+2024-02-29 23:14:58.6947 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выбран список  бимбам  Выберите действие со списком; Keyboard = Добавить блюдо;Посмотреть блюда;Переименовать список;Удалить список;Назад;
+2024-02-29 23:15:05.8728 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 40; text = AddDish canRoute = True
+2024-02-29 23:15:05.8728 INFO ROUTER chatId = 1437102827; State = ClickActionButtonWithList
+2024-02-29 23:15:06.2328 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите название блюда; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:15:14.0535 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 42; text = орех с шоколаде canRoute = True
+2024-02-29 23:15:14.0535 INFO ROUTER chatId = 1437102827; State = InputTitle
+2024-02-29 23:15:14.2300 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите ингредиенты; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:15:22.4944 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 44; text = охапка дров canRoute = True
+2024-02-29 23:15:22.4944 INFO ROUTER chatId = 1437102827; State = InputIngredients
+2024-02-29 23:15:22.5932 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите рецепт; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:15:34.6647 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 46; text = охапка дров и плов готов canRoute = True
+2024-02-29 23:15:34.6647 INFO ROUTER chatId = 1437102827; State = InputRecipe
+2024-02-29 23:15:34.7652 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите вашу оценку блюду; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:15:38.2322 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 48; text = 5 canRoute = True
+2024-02-29 23:15:38.2322 INFO ROUTER chatId = 1437102827; State = InputGrade
+2024-02-29 23:15:38.3309 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Введите ваш комментарий к данному блюду; Keyboard = Клавиатуры в данном сообщении нет
+2024-02-29 23:15:43.1671 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 50; text = pizdec canRoute = True
+2024-02-29 23:15:43.1671 INFO ROUTER chatId = 1437102827; State = InputComment
+2024-02-29 23:15:43.3136 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text =  Проверьте правильность введённых данных:  Блюдо: орех с шоколаде  Ингредиенты: охапка дров  Рецепт охапка дров и плов готов  Ваша оценка: 5 Ваш комментарий: pizdec  Данные введены верно?; Keyboard = Подтверждаю;
+2024-02-29 23:15:47.3050 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 51; text = Confirm canRoute = True
+2024-02-29 23:15:47.3050 INFO ROUTER chatId = 1437102827; State = InputCreatingConfirmation
+2024-02-29 23:15:47.4996 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Блюдо орех с шоколаде было создано успешно!; Keyboard = Добавить блюдо;Посмотреть блюда;Переименовать список;Удалить список;Назад;
+2024-02-29 23:16:16.9403 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = CallbackQuery; chatId = 1437102827; messageId = 52; text = BackToLists canRoute = True
+2024-02-29 23:16:16.9403 INFO ROUTER chatId = 1437102827; State = ClickActionButtonWithList
+2024-02-29 23:16:17.0887 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Ваши списки; Keyboard = бимбам;Назад;
+2024-02-29 23:16:18.7771 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 54; text = Назад canRoute = True
+2024-02-29 23:16:18.7771 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonUserLists
+2024-02-29 23:16:19.0787 INFO ИСХОДЯЩЕЕ СОООБЩЕНИЕ chatId = 1437102827; text = Выберите действие; Keyboard = Создать список;Просмотреть свои списки;Получить случайное блюдо;
+2024-02-29 23:16:27.9605 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 57; text = sdfsdf canRoute = True
+2024-02-29 23:16:27.9605 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:16:28.0485 ERROR ОШИБКА chatId = 1437102827; text = Неизвестная ошибка в ProcessClickOnInlineButton
+2024-02-29 23:16:31.4688 INFO ВХОДЯЩЕЕ СОООБЩЕНИЕ UpdateType = Message; chatId = 1437102827; messageId = 58; text = asdasdasd canRoute = True
+2024-02-29 23:16:31.4688 INFO ROUTER chatId = 1437102827; State = ClickOnInlineButtonInMenuMain
+2024-02-29 23:16:31.6236 ERROR ОШИБКА chatId = 1437102827; text = Неизвестная ошибка в ProcessClickOnInlineButton

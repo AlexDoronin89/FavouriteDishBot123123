@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f7e70d5-a097-4eae-bab0-5e5c7f19e7f4": {
+      "ProjectGuid": "1f7e70d5-a097-4eae-bab0-5e5c7f19e7f4",
+      "DisplayName": "FavouriteDishBot",
+      "ColorIndex": 0
+    },
+    "bc9e66fd-70cd-4847-9a6e-40ffbcd9b001": {
+      "ProjectGuid": "bc9e66fd-70cd-4847-9a6e-40ffbcd9b001",
+      "DisplayName": "DishParser",
+      "ColorIndex": 1
+    },
+    "fe26de59-d13d-42d1-b9f4-5cdf2272c581": {
+      "ProjectGuid": "fe26de59-d13d-42d1-b9f4-5cdf2272c581",
+      "DisplayName": "FavouriteDishBotTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
